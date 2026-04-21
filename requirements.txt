@@ -1,0 +1,7 @@
+crewai==0.120.0
+litellm[proxy]==1.68.0
+ollama==0.3.3
+pydantic>=2.7.4,<3
+fastapi>=0.110.0
+email-validator
+uvicorn[standard]
